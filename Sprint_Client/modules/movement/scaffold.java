@@ -3,6 +3,7 @@ import exploit
 
 player = minecraft.user
 
+minecraft.exploit()
 when.player {
   is.floating
 }
