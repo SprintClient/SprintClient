@@ -1,5 +1,7 @@
 # Security Policy
 
+By using SprintClient you agree that once you download SprintClient their could be a potential security flaw, though it probably won't be major. And once you download SprintClient it is not our responsibility if you change the code and open security flaws.
+
 ## Supported Versions
 
 | Version | Supported          |
