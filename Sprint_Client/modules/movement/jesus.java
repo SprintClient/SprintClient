@@ -1,9 +1,9 @@
 import minecraft
-import hack
+import exploit
 
 player = minecraft.user
 
-minecraft.hack()
+minecraft.exploit()
   player.allow {
   walk.water
 }
