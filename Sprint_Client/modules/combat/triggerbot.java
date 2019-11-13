@@ -3,6 +3,7 @@ import exploit
 
 player = minecraft.user
 
+minecraft.exploit()
 when.enemy {
   is.within 
     hitrange.attack
